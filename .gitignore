@@ -1,0 +1,10 @@
+# Ignore everything in the root except "DesktopModules" directory.
+/*
+!.gitignore
+!DesktopModules/
+
+# Ignore everyting in the "DesktopModules" direcotry, except the "mbanse1" directory
+# and "mbanse1" directories.
+DesktopModules/*
+!DesktopModules/mbanse1/
+!DesktopModules/mbanse1/*
